@@ -3,7 +3,7 @@
 </p>
 
 <p align='center'>
- 个人网站 <b>Arvin</b><sup><em>(Vue)</em></sup><br>
+ 个人网站 <b>RookieOHY</b><sup><em>(Vue)</em></sup><br>
 </p>
 
 <br>
@@ -19,7 +19,7 @@
 <br>
 
 <p align='center'>
-<a href="https://github.com/pinky-pig/arvin/blob/main/README.md">English</a>
+<a href="https://github.com/RookieOHY/arvin/blob/main/README.md">English</a>
 | <b>简体中文</b>
 </p>
 

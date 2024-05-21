@@ -8,12 +8,12 @@
       <!-- 椭圆 -->
       <div class="grid w-full flex-1 flex-shrink-0 place-items-center px-[20px]">
         <div class="h-[60px] w-full rounded-[30px] bg-white text-[36px] leading-[60px] dark:bg-[#30363d]">
-          {{ `Arvin` }}
+          {{ `ohy` }}
         </div>
       </div>
       <!-- 描述 -->
       <div class="h-1/4 max-h-[42px] w-full flex-shrink-0 border-4 border-[var(--cover-main-color)] rounded-[10px] border-solid bg-white p-[2px] dark:bg-[#30363d]">
-        mmeme.me
+        subhee.top
       </div>
     </div>
   </div>

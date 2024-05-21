@@ -227,7 +227,7 @@ function handleChangeShowMode() {
           :src="
             article.cover
               ? `${article.cover}?x-oss-process=image/resize,w_640/format,webp`
-              : 'https://cdn.jsdelivr.net/gh/pinky-pig/pic-bed/images乳胶漆刷墙.jpg'
+              : 'https://cdn.jsdelivr.net/gh/RookieOHY/wallpaper/blogimages%E4%B9%B3%E8%83%B6%E6%BC%86%E5%88%B7%E5%A2%99.jpg'
           "
         >
         <div class="w-full flex items-center justify-between px-3 pt-2 leading-tight">
