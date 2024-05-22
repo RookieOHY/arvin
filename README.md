@@ -1,33 +1,3 @@
-<p align='center'>
-  <img src='./public/mmeme.gif' alt='mmeme.me' width='600'/>
-</p>
-
-<p align='center'>
- Personal Blog Website <b>RookieOHY</b><sup><em>(Vue)</em></sup><br>
-</p>
-
-<br>
-
-<p align='center'>
-<a href="https://vitesse.netlify.app/">mmeme.me</a>
-</p>
-
-<br>
-
-> **Note**: Last version is coded with Nuxt 3, and the new version is coded with Vue 3. Because I met some problems after a long time without running, I realized that it and its toolkit version were updating too quickly, so I decided to rewrite it with Vue 3.
-
-<br>
-
-<p align='center'>
-<b>English</b> | <a href="https://github.com/RookieOHY/arvin/blob/main/README.zh-CN.md">简体中文</a>
-</p>
-
-<br>
-
-## Features
-
-- ⚡️ Components
-
-- 📑 Blog
-
-- 📦 Project
+源仓库和设计均来源于[Arvin](https://github.com/pinky-pig/arvin/)
+如需fork请到原仓库进行fork和star.
+可以在主页面底部等位置申明设计来源于作者 arvin
