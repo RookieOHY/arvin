@@ -1,5 +1,5 @@
-export const appName = 'Arvin'
-export const appDescription = 'Arvin Web App'
+export const appName = 'RookieOHY'
+export const appDescription = 'RookieOHY Web App'
 
 export const navFilter = [
   { label: '首页', route: '/', children: [] },
