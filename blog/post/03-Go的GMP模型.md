@@ -12,6 +12,8 @@ cover: https://cdn.jsdelivr.net/gh/RookieOHY/wallpaper/blogGo%E8%AF%AD%E8%A8%80%
 <img alt="封面" src="https://cdn.jsdelivr.net/gh/RookieOHY/wallpaper/blogcover.png" width=800 />
 </p>
 
+# 预备知识
+
 ## CPU
 
 `Central Processing Unit`的缩写，意为中央处理单元，即处理器；负责**读取、执行指令**；和内存、寄存器打交道。
@@ -52,3 +54,25 @@ CPU是基于进程切换的，一个进程工作时，其他进程无法获得CP
 - 每个线程都有自己独立的运行栈、程序计数器、一组寄存器
 
 ## 协程
+
+协程即用户级别线程，存在、运行于用户空间，内核无感知也不参与调度、控制。
+
+go里面的协程是：Goroutine，特点：
+
+- 由go运行时管理
+- 有go的GMP调度
+- 协程间切换发生在用户态
+
+# GMP模型
+
+GPM是一种协程调度模型。模型组成：
+
+- G
+- P
+- M
+
+## G
+
+## P
+
+## M
