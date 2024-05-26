@@ -62,16 +62,19 @@ go里面的协程是：Goroutine，特点：
 - 由go运行时管理
 - 有go的GMP调度
 - 协程间切换发生在用户态
+- 初始栈空间2-4kb
 
 ## GMP模型
 
 GPM是一种协程调度模型。模型组成：
 
-- G
-- P
-- M
+- G Goroutine即go协程，是GMP调度器调度的最基本单位；理论上数量无限制，受限于内存大小
+- P Machine即对cpu核心的抽象，是内核线程
+- M Processor即调度器，负责调度G，分配到M执行，默认等于cpu核心数
 
 ### G
+
+类比操作系统的线程，这是go自己的线程抽象。源码位置：`\Go 1.21\go1.21.4\src\runtime\runtime2.go`的`g`结构体
 
 ### P
 
