@@ -31,7 +31,7 @@ cover: https://cdn.jsdelivr.net/gh/RookieOHY/wallpaper/blogneovim%20%E6%8A%98%E8
 
 1. 在配置文件目录即 `nvim\` 下，克隆仓库。
 
-```git
+```shell
 git clone https://github.com/hardhackerlabs/oh-my-nvim.git C:\Users\20413\AppData\Local\nvim\init.lua
 ```
 
