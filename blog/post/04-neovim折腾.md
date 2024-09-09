@@ -3,7 +3,7 @@ title: neovim折腾
 date: 2024/09/09
 desc: 🎉neovim
 tags: ['#全部','#neovim']
-cover: https://cdn.jsdelivr.net/gh/RookieOHY/wallpaper/blogGo%E8%AF%AD%E8%A8%80%E7%89%B9%E6%80%A7%E6%80%9D%E8%80%83%E5%B0%81%E9%9D%A2.png
+cover: https://cdn.jsdelivr.net/gh/RookieOHY/wallpaper/blogneovim%20%E6%8A%98%E8%85%BE-RookieOHY.png
 ---
 
 [[toc]]
