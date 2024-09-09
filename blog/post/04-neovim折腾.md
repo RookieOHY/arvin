@@ -9,7 +9,7 @@ cover: https://cdn.jsdelivr.net/gh/RookieOHY/wallpaper/blogneovim%20%E6%8A%98%E8
 [[toc]]
 
 <p align="center">
-<img alt="封面" src="https://cdn.jsdelivr.net/gh/RookieOHY/wallpaper/blogcover.png" width=800 />
+<img alt="封面" src="https://cdn.jsdelivr.net/gh/RookieOHY/wallpaper/blogneovim%20%E6%8A%98%E8%85%BE-RookieOHY.png" width=800 />
 </p>
 
 ## 预备知识
