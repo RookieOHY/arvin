@@ -37,13 +37,26 @@ git clone https://github.com/hardhackerlabs/oh-my-nvim.git C:\Users\20413\AppDat
 
 2. 移除 `init.vim` 文件（和 `init.lua` 会冲突，保留其中一个即可）
 
-3. 打开终端模拟器 `wezterm`, 输入 `nvim`, 会启动和自动安装配置的neovim插件，等待下载和安装结束。
+3. 打开终端模拟器 `wezterm`, 输入 `nvim`, 会启动和自动安装配置的neovim插件，等待下载和安装结束。下载完毕后，可以在目录：C:\Users\20413\AppData\Local\nvim-data 查看安装的插件
 
 4. 最终效果
 
 ![](https://cdn.jsdelivr.net/gh/RookieOHY/wallpaper/blogSnipaste_2024-09-09_22-31-17.png)
 ![](https://cdn.jsdelivr.net/gh/RookieOHY/wallpaper/blogSnipaste_2024-09-09_22-30-08.png)
 ![](https://cdn.jsdelivr.net/gh/RookieOHY/wallpaper/blogSnipaste_2024-09-09_22-30-41.png)
+
+5. 可能遇到的问题：因网络代理问题无法无法下载 `lazy.vim`，导致报错。解决方式：解决网络问题，重新打开 nvim 下载 `lazy.vim`。
+
+```shell
+E5113: Error while calling lua chunk: C:\Users\20413\AppData\Local\nvim\init.lua:21: module 'lazy' not found:
+        no field package.preload['lazy']
+        no file '.\lazy.lua'
+        no file 'D:\neovim\bin\lua\lazy.lua'
+        no file 'D:\neovim\bin\lua\lazy\init.lua'
+        no file '.\lazy.dll'
+        no file 'D:\neovim\bin\lazy.dll'
+        no file 'D:\neovim\bin\loadall.dll'
+```
 
 ### 命令
 
