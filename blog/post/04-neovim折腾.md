@@ -27,6 +27,24 @@ cover: https://cdn.jsdelivr.net/gh/RookieOHY/wallpaper/blogneovim%20%E6%8A%98%E8
 
   > 推荐使用init.lua来配置neovim
 
+使用 [oh-my-nvim](https://github.com/hardhackerlabs/oh-my-nvim) 来配置neovim。
+
+1. 在配置文件目录即 `nvim\` 下，克隆仓库。
+
+```git
+git clone https://github.com/hardhackerlabs/oh-my-nvim.git C:\Users\20413\AppData\Local\nvim\init.lua
+```
+
+2. 移除 `init.vim` 文件（和 `init.lua` 会冲突，保留其中一个即可）
+
+3. 打开终端模拟器 `wezterm`, 输入 `nvim`, 会启动和自动安装配置的neovim插件，等待下载和安装结束。
+
+4. 最终效果
+
+![](https://cdn.jsdelivr.net/gh/RookieOHY/wallpaper/blogSnipaste_2024-09-09_22-31-17.png)
+![](https://cdn.jsdelivr.net/gh/RookieOHY/wallpaper/blogSnipaste_2024-09-09_22-30-08.png)
+![](https://cdn.jsdelivr.net/gh/RookieOHY/wallpaper/blogSnipaste_2024-09-09_22-30-41.png)
+
 ### 命令
 
 - 查看版本信息 nvim -v 或者 nvim --version
