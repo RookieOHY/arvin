@@ -175,7 +175,7 @@ return config
 
 ### starship 配置
 
-- [statrship] (https://starship.rs/zh-CN/installing/) 安装。配置地址：https://starship.rs/zh-CN/presets/pastel-powerline#%E5%89%8D%E7%BD%AE%E8%A6%81%E6%B1%82
+- [statrship](https://starship.rs/zh-CN/installing/) 安装。配置地址：https://starship.rs/zh-CN/presets/pastel-powerline#%E5%89%8D%E7%BD%AE%E8%A6%81%E6%B1%82
 
 ```shell
 starship preset pastel-powerline -o ~/.config/starship.toml
