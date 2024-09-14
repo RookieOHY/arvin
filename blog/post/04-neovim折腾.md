@@ -66,5 +66,8 @@ E5113: Error while calling lua chunk: C:\Users\20413\AppData\Local\nvim\init.lua
 - 返回正常模式 esc
 - 保存文件 :w
 - 退出 :q
+- 上下左右 k j h l
+
+> 默认右手食指在 j 键上，左手食指在 k 键上
 
 ### 关联文章
