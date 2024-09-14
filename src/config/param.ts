@@ -141,7 +141,7 @@ export const PROJECTS = [
 ]
 
 export const giscusSetting = {
-  'data-repo': 'RookieOHY/Arvin',
+  'data-repo': 'RookieOHY/arvin',
   'data-repo-id': 'R_kgDOL33gAg',
   'data-category': 'General',
   'data-category-id': 'DIC_kwDOL33gAs4Cfhpw',
