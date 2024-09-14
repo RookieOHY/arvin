@@ -4,7 +4,7 @@
 // https://www.cocoanetics.com/2013/06/ios-7-icon-squircle/
 // https://www.w3cplus.com/css/smooth-corners-with-css-houdini.html
 
-function open(twitterUrl = 'https://twitter.com/ArvinnWang') {
+function open(twitterUrl = 'https://x.com/ouhuanyu') {
   window.open(twitterUrl)
 }
 </script>
